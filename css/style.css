@@ -1,0 +1,50 @@
+body{
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1{
+  font-family: 'Dancing Script', cursive;
+  font-size: 50px;
+}
+
+div{
+  background-color:#C8F2EF;
+  padding-top: 100px;
+  position: relative;
+}
+
+.top-cloud{
+  height: 200px;
+  width : 250px;
+  position: absolute;
+  left: 900px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  height: 200px;
+  width : 230px;
+  position: absolute;
+  left:100px;
+  top: 300px;
+}
+
+p{
+  font-size: 20px;
+  font-family: serif;
+}
+
+.girl{
+  height: 150px;
+  border-radius: 100%;
+}
+
+.pencil{
+  height: 150px;
+}
+/*
+.pro{
+
+}
+*/
